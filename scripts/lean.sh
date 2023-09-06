@@ -51,6 +51,7 @@ svn export https://github.com/vernesong/OpenClash/trunk/luci-app-openclash
 
 # Add Lucky
 svn export https://github.com/gdy666/luci-app-lucky/trunk/luci-app-lucky
+svn export https://github.com/gdy666/luci-app-lucky/trunk/lucky
 
 # Add ddnsto & linkease
 svn export https://github.com/linkease/nas-packages-luci/trunk/luci/luci-app-ddnsto
