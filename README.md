@@ -19,7 +19,7 @@
 
 ### 默认编译
 
-- 用户名：root 密码：password  管理IP：192.168.11.1
+- 用户名：root 密码：password  管理IP：192.168.2.1
 - 下载地址： https://github.com/DHDAXCW/NanoPi-R5S/releases
 - x86_64固件下载 https://github.com/DHDAXCW/lede/releases、
 - 关于r5s刷机方法请参考dn2刷机 https://github.com/DHDAXCW/DoorNet-1-2/blob/mere/emmc.md
@@ -29,7 +29,7 @@
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
 - 仅支持MT7921无线网卡
 # 插件展示
- 
+
  ![image](https://user-images.githubusercontent.com/74764072/183227361-e8bdb023-5514-437d-97e8-e13ca4285035.png)
 
 # [赏个鸡腿吧](https://afdian.net/@dhdaxcw/plan)
